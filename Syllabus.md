@@ -422,7 +422,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 #### Lectures
 
-- Watch: [Classification](https://web.microsoftstream.com/video/1a88749d-2dca-4bc6-9990-3227a253bfb0) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.1-Classification.md)
+- Watch: [Classification](https://web.microsoftstream.com/video/1a88749d-2dca-4bc6-9990-3227a253bfb0) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.1-Classification.md))
 - Watch: [Clustering](https://web.microsoftstream.com/video/77b1ad5c-bece-4154-89b3-cb1e42877cae) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.2-Clustering.md))
 
 #### Readings
@@ -442,8 +442,8 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings** and **Reflections**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/98763aad-8fd6-4a73-b990-26507a751b7f))
+- Discussion of **Readings** and **Reflections** ([Recording](https://web.microsoftstream.com/video/2f84d26e-e42f-4b42-89df-652bfee3ffa8))
 
 ### Practical
 
