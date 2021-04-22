@@ -4,11 +4,11 @@
 
 I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
-[Sign your name here]
+['Sign' your name here]
 
 Date of signature: 
 Assessment due date: 
-Student Number: XXXXXXX
+Student Number: 
 
 _Please write your answer immediately below the level-3 headers._
 
@@ -44,8 +44,7 @@ _Please write your answer immediately below the level-3 headers._
 
 ---
 
-### 7. Which of the uses presented in Q.7 are _ethical_?
+### 7. Which of the uses presented in Q.6 are _ethical_?
 
-_Your answer here_
 
  
