@@ -1,0 +1,32 @@
+--- 
+title: "Foundations of Spatial Data Science"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: "jreades/fsds"
+description: "CASA0013: Foundations of Spatial Data Science Workbook"
+url: 'https\://jreades.github.io/fsds/'
+
+---
+
+# (PART\*) Module Overview {-}
+
+# Module Introduction  {-}
+
+### Geocomputation Introductory Video {-}
+
+```{r 00-intro-video, warnings=FALSE, message=FALSE, echo=FALSE, cache=TRUE}
+library(vembedr)
+embed_msstream('16418799-e840-4948-94ae-bca03cb4cf8a') %>% use_align('center')
+```
+
+**Remember you must have logged in to Microsoft 365 using your UCL login to be able to watch the lecture videos - instructions are provided on Moodle.**
+
+## Learning Objectives {-}
+
+### Getting in touch during the module {-}
+
+### Acknowledgements {-}
+
+### Noticed a mistake in this resource? {-}
