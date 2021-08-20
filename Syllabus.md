@@ -1,6 +1,6 @@
 # Overview
 
-This year we are 'flipping' the classroom. That means that we expect you to come to 'lecture' (***except*** in Week 1!) having already watched the assigned videos and completed the assigned readings. This means that there is a mix of 'asynchronous' (work that you do in your own time) and 'synchronous' (work that we do during scheduled hours) interaction. For those unable to attend a 'synchronous' activity because of Time Zone issues we *intend* to make a recording available afterwards, but we expect that a 2-hour recording of a group discussion and live coding session will be rather less educational and informative than actually *being there* so recordings should not be used as a substitute for attendance.
+We have 'flipped' the classroom for this module so we expect you to come to 'lecture' (***except*** in Week 1!) having already watched the assigned videos and completed the assigned readings. This means that there is a mix of 'asynchronous' (work that you do in your own time) and 'synchronous' (work that we do during scheduled hours) interaction. For those unable to attend a 'synchronous' activity because of Time Zone issues we *intend* to make a recording available afterwards, but we expect that a 2-hour recording of a group discussion and live coding session will be rather less educational and informative than actually *being there* so recordings should not be used as a substitute for attendance.
 
 ### Preparation
 
@@ -9,7 +9,7 @@ The nature and amount of preparation will vary from week to week, but may includ
 - Readings from both academic and non-academic sources.
 - Recorded lectures from CASA staff.
 - Recorded videos from non-CASA staff.
-- short Moodle quizzes to test your completion of readings and videos.
+- Short Moodle quizzes to test your completion of readings and videos.
 - Contributions to a weekly '[Padlet](https://en-gb.padlet.com/)' that will be used to guide the 'synchronous' sessions.
 
 ### 'Lecture'
