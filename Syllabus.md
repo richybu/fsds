@@ -90,6 +90,8 @@ If you have already installed the programming environment then the practical can
 
 # Week 2: Foundations (Part 1)
 
+This week we will be (briefly) reviewing the basics of Python with a view to recapping the more complex aspects of simple data structures. And yes, that's a bit of an oxymoron! We will be contextualising this within the longer history of the study of geography through computation. If you are new to Python and have not yet completed Code Camp you are very strongly encouraged to complete Notebooks 1–7 as soon as possible.
+
 ### Preparation
 
 #### Installing Command Line Tools 
