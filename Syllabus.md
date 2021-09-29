@@ -1,4 +1,4 @@
-# Overview
+# Overview (transfer to moodle)
 
 We have 'flipped' the classroom for this module so we expect you to come to 'lecture' (***except*** in Week 1!) having already watched the assigned videos and completed the assigned readings. This means that there is a mix of 'asynchronous' (work that you do in your own time) and 'synchronous' (work that we do during scheduled hours) interaction. For those unable to attend a 'synchronous' activity because of Time Zone issues we *intend* to make a recording available afterwards, but we expect that a 2-hour recording of a group discussion and live coding session will be rather less educational and informative than actually *being there* so recordings should not be used as a substitute for attendance.
 
@@ -79,19 +79,18 @@ We'd recommend \#1 first as it will be useful to have 'virtualisation' enabled o
 ### Workshop
 
 
-- Poll Time! The password for all Padlets can be found on Moodle.
-  - **Poll**: [Where in the world are you?](https://padlet.com/jreades1/o5xckdew9o6f5jay)
-  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by) ([Recording](https://web.microsoftstream.com/video/979f3dfb-57b1-40ad-9c08-3e21c29e2d2f))
 
-- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md) ([Recording](https://web.microsoftstream.com/video/553fcc7c-f361-45a8-bb20-69055d345a01))
-- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md) ([Recording](https://web.microsoftstream.com/video/86991aba-0305-4cb5-bbb9-f89a5fbebe46))
-- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md) ([Recording](https://web.microsoftstream.com/video/2713168e-47cf-4df6-8cf2-2e9059cc698a))
+In this weeks workshop we will introductions modules aims, learning outcomes and expections with a general introduction to the course
+
+N.B Workshop material is on Moodle all other resources for this module are on the moodle
 
 ### Practical
 
 If you have already installed the programming environment then the practical can be downloaded from [GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) (Click on `Raw` and then `Save File As...`) and viewed by saving it to your `Documents/CASA/...` folder, or you can just [view it online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) in your web browser.
 
 # Week 2: Foundations (Part 1)
+
+This week we will be (briefly) reviewing the basics of Python with a view to recapping the more complex aspects of simple data structures. And yes, that's a bit of an oxymoron! We will be contextualising this within the longer history of the study of geography through computation. If you are new to Python and have not yet completed Code Camp you are very strongly encouraged to complete Notebooks 1–7 as soon as possible.
 
 ### Preparation
 
@@ -120,7 +119,7 @@ There are written instructions in the Week's practical.
 
 #### Lectures
 
-As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
+As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' workshop can focus on demonstration, discussion, and clarification. This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
 
 - Watch: [Python: the Basics](https://web.microsoftstream.com/video/dc5951ed-33fb-43a7-8e30-19ec2b41cb1f) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.3-Python_the_Basics.md))
 - Watch: [Lists](https://web.microsoftstream.com/video/21ef45cf-c432-4882-be54-e9bdbdaf7a3b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
@@ -130,7 +129,7 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 #### Readings
 
-- [@Burton:1963] [DOI](https://doi.org/10.1111/j.1541-0064.1963.tb00796.x)
+- [@Burton:1963] (Expand title)[DOI](https://doi.org/10.1111/j.1541-0064.1963.tb00796.x)
 - [@ArribasBel:2018] [DOI](https://doi.org/10.1111/gec3.12403)
 
 #### Contribution
@@ -143,12 +142,11 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 ### Workshop
 
-- Review of **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/a850dc75-cb3b-431c-a870-d9b4a4b7af29))
-- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/fdc94583-2409-4bfe-9a30-eda34bc28398))
+- Review of **Collaborative Agenda** 
 
-- Geography and Computers ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md))
-- Principles of Programming ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md))
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/374b3c32-56db-42f4-8fc2-c1833a976dce))
+- Discussion of **Readings** 
+
+- **Live Coding**
 
 ### Practical
 
