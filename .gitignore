@@ -4,3 +4,4 @@ data/
 *.svg
 *.gpkg
 __pycache__
+.Rproj.user

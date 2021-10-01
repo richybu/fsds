@@ -59,30 +59,27 @@ If you want to get a *little* bit ahead of things, then you should try to instal
 
 If you want to get even *more* ahead of things, then the single most important thing you can do is to install the programming environment. This is the stage where you're most likely to encounter problems that will need our assistance, so knowing that you need our help here means that you ask for it much sooner!
 
-So we have created **installation videos** with transcripts for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) as well as [Windows](https://web.microsoftstream.com/video/ca31d99c-1c98-4a84-abb8-e40bfd307dd6). There are also written instructions that you can follow for [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant), if you prefer. 
+We previously experimented with four approaches to installation: VirtualBox; Vagrant; Docker; and Anaconda Python directly. Each of these has pros and cons, but after careful consideration we have come to the conclusion that **Docker** is the most robust way to ensure a consistent experience in which all students end up with the same versions of each library, difficult-to-diagnose hardware/OS issues are minimised, and running/recovery is the most straightforward. Successful tests have been conducted using the **Docker**-based installation approach using macOS and Windows operating systems, however some small issues have arise which we plan to solve soon, so don't despair.
 
-##### Windows Issues
+__To install the Programming Environment follow the instructions in Practical 1 [here](https://github.com/jreades/fsds/blob/master/practicals/Practical-01-Getting_Started.ipynb)__ (Task 5, but 4 and 3 also recommended)
 
-If you are on a Windows machine and receive this error:
+##### Known issues
 
-> *VBoxManage.exe: error: Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE).*
-> *VBoxManage.exe: error: VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)*
-> *VBoxManage.exe: error: Details: code E_FAIL (0x80004005), component ConsoleWrap, interface IConsole*
+We've found issues running Docker using Windows that when closing down the Docker image the files you created are not saved and you cannot access any files on your current system. If this appears for you, a solution that could work is replacing:
 
-Then you have two options:
+`-v "$WORK_DIR":/home/jovyan/work`
 
-1. Talk to use about how to enable Hypervisor in the BIOS for computer.
-2. Switch to installing [Anaconda Python directly](https://github.com/jreades/sds_env/tree/master/conda).
+In the `docker.sh` file with:
 
-We'd recommend \#1 first as it will be useful to have 'virtualisation' enabled on your computer anyway, but we have \#2 has a backup if that's just not possible for some reason!
+`--mount type=bind,source="$(pwd)",target=/home/jovyan/work`
+
+and trying to load up the Docker image again. In doing so you should be able to see any existing files that you have, while also being able to save any files that you create in JupyterLab.
 
 ### Workshop
 
+In this weeks workshop we will introduce modules aims, learning outcomes and expectations with a general introduction to the course
 
-
-In this weeks workshop we will introductions modules aims, learning outcomes and expections with a general introduction to the course
-
-N.B Workshop material is on Moodle all other resources for this module are on the moodle
+N.B Workshop material and all other resources for this module are on the Moodle
 
 ### Practical
 
