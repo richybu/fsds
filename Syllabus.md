@@ -1,4 +1,4 @@
-# Overview (transfer to moodle)
+# Overview 
 
 This document is where you will find all material needed for the "preparation" component of the module 
 
