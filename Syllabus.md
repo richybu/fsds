@@ -53,7 +53,7 @@ This information will be very useful during the first few weeks when you are mos
 If you want to get a *little* bit ahead of things, then you should try to install one of:
 
 - **Mac:** the Xcode Command Line Tools, which can be done [directly from the Terminal](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-- **Windows:** Git Bash, for which you can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+- **Windows:** WSL 2, for which you can follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-install-the-windows-subsystem-for-linux-2-on-microsoft-windows-10).
 
 #### Installing the Programming Environment
 
@@ -96,7 +96,7 @@ This week we will be (briefly) reviewing the basics of Python with a view to rec
 If you didn't get to this during the practical then *please* do it before we get to Week 2's practical! You need to install one of:
 
 - **Mac:** the Xcode Command Line Tools, which can be done [directly from the Terminal](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-- **Windows:** Git Bash, for which you can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+- **Windows:** WSL 2, for which you can follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-install-the-windows-subsystem-for-linux-2-on-microsoft-windows-10).
 
 #### Installing the Programming Environment
 
