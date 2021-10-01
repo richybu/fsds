@@ -61,7 +61,7 @@ If you want to get even *more* ahead of things, then the single most important t
 
 We previously experimented with four approaches to installation: VirtualBox; Vagrant; Docker; and Anaconda Python directly. Each of these has pros and cons, but after careful consideration we have come to the conclusion that **Docker** is the most robust way to ensure a consistent experience in which all students end up with the same versions of each library, difficult-to-diagnose hardware/OS issues are minimised, and running/recovery is the most straightforward. Successful tests have been conducted using the **Docker**-based installation approach using macOS and Windows operating systems, however some small issues have arise which we plan to solve soon, so don't despair.
 
-__To install the Programming Environment follow the instructions in Practical 1 [here](https://github.com/jreades/fsds/blob/master/practicals/Practical-01-Getting_Started.ipynb)__ (Task 5, but 4 and 3 also recommended)
+__To install the Programming Environment follow the instructions in Practical 1 [here](https://github.com/jreades/fsds/blob/master/practicals/Practical-01-Getting_Started.ipynb)__ (Task 5, but 4 and 3 are recommended)
 
 ##### Known issues
 
