@@ -131,7 +131,7 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/7l6grf09kujmjrus)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -177,7 +177,7 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/qsbkobbnbpo057yz)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -185,9 +185,9 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording Part 1](https://web.microsoftstream.com/video/024260b1-8c2d-4ffe-abc2-a9fe62630afd) and [Recording Part 2](https://web.microsoftstream.com/video/dd67f97f-4470-43be-b2a2-6b862ee80fc3))
-- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/6220ab79-4a31-447a-9916-6cb7e3917453))
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/b5df930f-82ba-40a1-9d61-26174b58d2b3))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -211,7 +211,7 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/hmrlizd62gfilfz7)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -219,9 +219,9 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/927265a6-a3c4-4855-b96e-834b3fd90a07))
-- Discussion of **Readings** (see Above)
-- **Live Coding** ([Part 2](https://web.microsoftstream.com/video/97baab26-6aad-43f5-a9f8-afb633b59d58); [Part 3](https://web.microsoftstream.com/video/2c593785-436d-4490-b591-b12379440ea5))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -246,14 +246,14 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/pg23spvbkfytbcnu)
+- Padlet: [Collaborative Agenda]
 
 ### Workshop
 
-- Brief Discussion of **Assessments* ([Recording](https://web.microsoftstream.com/video/b2ccf725-3328-4acc-9f13-fe84f0fa8f4d))
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b))
-- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b?st=822))
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/05870663-8cf2-464e-9932-e6e550077d0f))
+- Brief Discussion of **Assessments* 
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -291,7 +291,7 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/48f8jhrni5cplyo2)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -299,9 +299,9 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
-- Discussion of **Readings** (see [Collaborative Agenda](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/292b318e-223d-48dd-9e2e-efe33c1acb3d))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -326,7 +326,7 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/15mbt34zr6v8e861)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -334,9 +334,9 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/bc6c55dd-a34d-41bb-919b-a7f781570777))
-- Discussion of **Readings** (see above)
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/0bc57b29-6840-45e6-8cda-e7ec88acef5e))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -360,7 +360,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/iwn12kf61hfyhbx5)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -368,9 +368,9 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/01009be0-aada-45cc-b8b3-76a4c16f2ceb))
-- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/f72532ef-e4ea-45cc-8532-8d895a398c3b))
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/6e5c59eb-5a79-445b-b636-90243a685221))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -395,7 +395,7 @@ The practical can then be downloaded from GitHub.
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/7w9x315mt1vjaadm)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -403,9 +403,9 @@ The practical can then be downloaded from GitHub.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/26b0bbdd-f45a-4faf-89d7-8f8add7083cb))
-- Discussion of **Readings** (See above)
-- **Live Coding** ([Recording](https://web.microsoftstream.com/video/1d1d0952-a682-467e-acb7-aca81e9a8d8f))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** 
+- **Live Coding** 
 
 ### Practical
 
@@ -429,7 +429,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 #### Contribution
 
-- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/r5xk6texlxwgga3u)
+- Padlet: [Collaborative Agenda]
 
 #### Quiz!
 
@@ -437,8 +437,8 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/98763aad-8fd6-4a73-b990-26507a751b7f))
-- Discussion of **Readings** and **Reflections** ([Recording](https://web.microsoftstream.com/video/2f84d26e-e42f-4b42-89df-652bfee3ffa8))
+- Reviewing the **Collaborative Agenda** 
+- Discussion of **Readings** and **Reflections** 
 
 ### Practical
 
