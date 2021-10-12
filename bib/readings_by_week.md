@@ -22,10 +22,6 @@ Donoho, D. 2017. “50 Years of Data Science.” *Journal of Computational
 and Graphical Statistics* 26 (4): 745–66.
 <https://doi-org.libproxy.ucl.ac.uk/10.1080/10618600.2017.1384734>.
 
-Amoore, L. 2019. “Doubt and the Algorithm: On the Partial Accounts of
-Machine Learning.” *Theory, Culture, Society* 36 (6): 147–69.
-<https://doi.org/https://doi.org/10.1177%2F0263276419851846>.
-
 Unwin, David. 1980. “Make Your Practicals Open-Ended.” *Journal of
 Geography in Higher Education* 4 (2): 39–42.
 <https://doi.org/10.1080/03098268008708772>.
