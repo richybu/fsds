@@ -20,7 +20,7 @@ in Higher Education* 40 (1): 117–30.
 
 Donoho, D. 2017. “50 Years of Data Science.” *Journal of Computational
 and Graphical Statistics* 26 (4): 745–66.
-<https://doi.org/10.1007/978-3-642-23430-9_71>.
+<https://doi-org.libproxy.ucl.ac.uk/10.1080/10618600.2017.1384734>.
 
 Amoore, L. 2019. “Doubt and the Algorithm: On the Partial Accounts of
 Machine Learning.” *Theory, Culture, Society* 36 (6): 147–69.
