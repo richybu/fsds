@@ -54,7 +54,7 @@ Communities.” The Guardian.
 
 D'Ignazio, Catherine, and Lauren Klein. 
 "Chapter Five: The Numbers Don’t Speak for Themselves." Data Feminism. PubPub, 2018.
-<https://mitpressonpubpub.mitpress.mit.edu/pub/6ui5n4vo/release/4>.
+https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3
 
 Elwood, S., and M. Wilson. 2017. “Critical Gis Pedagogies Beyond ‘Week
 10: Ethics.” *International Journal of Geographical Information Science*
