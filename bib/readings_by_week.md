@@ -73,8 +73,8 @@ Programming Historian*, no. 8. <https://doi.org/10.46430/phen0082>.
 #### Week 8
 
 D'Ignazio, Catherine, and Lauren Klein. 
-"Chapter Two: 2. Collect, Analyze, Imagine, Teach." Data Feminism, 2020.
-https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef.
+"Chapter Three: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." Data Feminism, 2020.
+https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5?readingCollection=0cd867ef.
 
 Badger, E., Q. Bui, and R. Gebeloff. 2019. “Neighborhood Is Mostly
 Black. The Home Buyers Are Mostly White. New York Times.” New York Times.
